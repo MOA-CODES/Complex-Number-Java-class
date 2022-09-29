@@ -1,6 +1,6 @@
 emm niggas and niggresses
 
-complex2 was just was testing out something, complex is the actuall one that is being used.
+complex2,complex3 was just was testing out something, complex is the actuall one that is being used.
 
 This class assumes that the greates power of i achievabale is 2.
 
