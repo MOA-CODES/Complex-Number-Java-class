@@ -1,5 +1,7 @@
 emm niggas and niggresses
 
+complex4 or buildmain and complex together, both of them are working correctly
+
 complex2,complex3 was just was testing out something, complex is the actuall one that is being used.
 
 This class assumes that the greates power of i achievabale is 2.

@@ -6,7 +6,7 @@ public class Buildmain{
         c.setReal(3);
         c.setImaginary(-4);
 
-        System.out.println(c.Cdivision());
+        System.out.println(c.Caddition());
 
     }
 }
